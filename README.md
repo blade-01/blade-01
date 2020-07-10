@@ -1,9 +1,10 @@
 ### Hi there 👋
+I go by the name Blade cuz #wesleysnipesgotnothingonme 
+I'm a Frontend web developer, I find the backend stuff fascinating,I'm a member of DSC(Developer Students Club) UNILAG.
+I'm also a Geoscientist in the making. I love being professional in all my dealings.
+I love what I do and I try to beat my best performance. 
 
-<!--
-**blade-01/blade-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on anything
 - 🌱 I’m currently learning everything
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: animashauntaofiq@gmail.com, 08108667883
 - 😄 Pronouns: His/Her
 - ⚡ Fun fact: I'm 5'5" and I am super-flexible
--->
+
+سلم. ✌
