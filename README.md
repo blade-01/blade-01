@@ -1,8 +1,8 @@
 ### Hi there 👋
 I go by the name Blade cuz #wesleysnipesgotnothingonme 
-I'm a Frontend web developer, I find the backend stuff fascinating,I'm a member of DSC(Developer Students Club) UNILAG.
-I'm also a Geoscientist in the making. I love being professional in all my dealings.
-I love what I do and I try to beat my best performance. 
+I'm a Frontend web developer, I find the backend stuff fascinating, I'm a member of DSC(Developer Students Club) UNILAG.
+I'm also a Geoscientist in the making. I am professional, truthful and forthcoming in all my dealings.
+I love what I do and I try to beat my personal best
 
 
 
