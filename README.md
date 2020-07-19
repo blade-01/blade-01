@@ -11,7 +11,7 @@ I love what I do and I try to beat my personal best
 - 👯 I’m looking to collaborate on anything design
 - 🤔 I’m looking for help with JS Frameworks 
 - 💬 Ask me about CSS-Tricks 
-- 📫 How to reach me: animashauntaofiq@gmail.com, (234)810-8667-883
+- 📫 How to reach me: animashauntaofiq@gmail.com, (234) 810-8667-883
 - 😄 Pronouns: His/Her
 - ⚡ Fun fact: I'm 5'5" and I am super-flexible
 
