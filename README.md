@@ -14,6 +14,6 @@ I love what I do and I try to beat my personal best
 - 💬 Ask me about CSS-Tricks 
 - 📫 How to reach me: animashauntaofiq@gmail.com, (234) 810-8667-883
 - 😄 Pronouns: His/Her
-- ⚡ Fun fact: I'm 5'5" and I am super-flexible
+- ⚡ Fun fact: I'm 5'5" 🤫
 
 سلم. ✌
