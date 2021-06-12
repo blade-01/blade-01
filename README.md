@@ -2,7 +2,7 @@
 
 <p align='center'>My name is Taofiq, I'm a front-end developer and I love creating responsive and interactive things for the web. I work with HTML, CSS, Javascript, Sass and I'm currently learning Vue</p>
 
-<p align='center'>Checkout my repos to view my work(s) and don't forget to follow me on my socials 👇</p>
+<p align='center'>Checkout my repos to view my works and don't forget to follow me on my socials 👇</p>
 
 <!-- Links -->
 
@@ -23,7 +23,7 @@
   
   <!-- Stats -->
   <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&theme=radical">
+ <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&theme=radical">
 </p>
 
 <p align = "center">
