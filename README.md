@@ -2,9 +2,10 @@
 
 <p align='center'>My name is Taofiq, I'm a front-end developer and I love creating responsive and interactive things for the web. I work with HTML, CSS, Javascript, Sass and I'm currently learning Vue</p>
 
-<p align='center'>Checkout my repos to view my work(s)and don't forget to follow me on my socials 👇</p>
+<p align='center'>Checkout my repos to view my work(s) and don't forget to follow me on my socials 👇</p>
 
 <!-- Links -->
+
 <p align='center'>
 <!-- <a href="" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> -->
@@ -22,8 +23,9 @@
   
   <!-- Stats -->
   <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
-  
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blade-01&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
+ <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&theme=radical">
 </p>
+
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blade-01&langs_count=5&theme=radical">
 </p>
