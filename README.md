@@ -22,12 +22,8 @@
   
   <!-- Stats -->
   <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&title_color=69e78b&text_color=efefed&icon_color=69e78b&bg_color=0b0b0c&line_height=27">
+ <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
   
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blade-01&title_color=69e78b&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blade-01&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
 </p>
 </p>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&title_color=edc00e&text_color=efefed&icon_color=edc00e&bg_color=0b0b0c&line_height=27"> -->
-
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27"> -->
