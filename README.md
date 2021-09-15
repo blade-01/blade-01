@@ -22,10 +22,10 @@
   <img src="https://gpvc.arturio.dev/blade-01" />
   
   <!-- Stats -->
-  <p align = "center">
+  <!--<p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&theme=vue-dark">
 </p>
 
 <p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blade-01&langs_count=5&theme=vue-dark">
-</p>
+</p>-->
