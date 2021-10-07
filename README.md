@@ -27,7 +27,7 @@
 </p>
 
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=blade-01&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=blade-01&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blade-01&langs_count=5&theme=vue-dark"> -->
 </p>
