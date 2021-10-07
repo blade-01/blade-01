@@ -26,6 +26,7 @@
  <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&theme=vue-dark">
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blade-01&theme=vue-dark)](https://git.io/streak-stats)
 <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=blade-01&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
 
