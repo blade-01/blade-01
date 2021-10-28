@@ -14,7 +14,7 @@
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/blade-01" />
 <br><br>
-<p align='center'>I'm an enthusiastic front-end developer and I love creating responsive and interactive things for the web. I work with Vue, HTML, CSS, Javascript, SCSS, TailwindCSS and I'm currently learning Typescript</p>
+<p align='center'>Enthusiastic front-end developer with passion for creating responsive and interactive things for the web. I work with Vue, HTML, CSS, Javascript, SCSS, TailwindCSS and I'm currently learning Typescript</p>
 <br>
 <!-- Stats -->
 <p align = "center">
