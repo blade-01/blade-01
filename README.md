@@ -17,10 +17,10 @@
 <p align='center'>I'm an enthusiastic front-end developer and I love creating responsive and interactive things for the web. I work with Vue, HTML, CSS, Javascript, SCSS, TailwindCSS and I'm currently learning Typescript</p>
 <br>
 <!-- Stats -->
-<!-- <p align = "center">
+<p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&theme=vue-dark">
-</p> -->
-<div align="center" style="display:grid; grid-template-columns: repeat(2, 1fr); grid-gap: 1rem">
+</p>
+<!-- <div align="center" style="display:grid; grid-template-columns: repeat(2, 1fr); grid-gap: 1rem">
  <div>
   <img src="https://raw.githubusercontent.com/blade-01/frontend-mentor/manage/design/desktop-preview.jpg" height="50%" width="100%" style="object-fit:cover">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=blade-01&repo=frontend-mentor&show_icons=true&theme=vue-dark">
@@ -37,4 +37,4 @@
   <img src="https://raw.githubusercontent.com/blade-01/facture/main/src/assets/img/Home.jpg" height="50%" width="100%" style="object-fit:cover">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=blade-01&repo=facture&show_icons=true&theme=vue-dark">
  </div>
-<div>
+<div> -->
