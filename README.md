@@ -1,40 +1,15 @@
-<h1 align='center'><b>Hi there 👋, I'm Taofiq</b></h1>
+# 💫 About Me:
+I am a Software Developer with 2+ years of experience in developing web applications utilizing the latest technologies and frameworks. Skilled in JavaScript, TypeScript, Vue ecosystem (Vuex, Pinia, Vue Router, Vue CLI, etc.), Tailwind, Nuxt, GraphQL, REST API, Firebase, Netlify, GitHub, Git, Figma, and more.<br>
 
-<br>
-<p align='center'>
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/@dr_annys" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="http://www.linkedin.com/in/animashaun-taofiq-65556b135/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:animashauntaofiq@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/blade-01" />
-<br><br>
-<p align='center'>Enthusiastic front-end developer with passion for creating responsive and interactive things for the web. I work with Vue, HTML, CSS, Javascript, SCSS, TailwindCSS and I'm currently learning Typescript</p>
-<br>
-<!-- Stats -->
-<p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api?username=blade-01&show_icons=true&theme=vue-dark">
-</p>
-<!-- <div align="center" style="display:grid; grid-template-columns: repeat(2, 1fr); grid-gap: 1rem">
- <div>
-  <img src="https://raw.githubusercontent.com/blade-01/frontend-mentor/manage/design/desktop-preview.jpg" height="50%" width="100%" style="object-fit:cover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blade-01&repo=frontend-mentor&show_icons=true&theme=vue-dark">
- </div>
- <div>
-  <img src="https://raw.githubusercontent.com/blade-01/galerie/main/src/assets/img/Screenshot.png" height="50%" width="100%" style="object-fit:cover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blade-01&repo=galerie&show_icons=true&theme=vue-dark" >
- </div>
- <div>
-  <img src="https://raw.githubusercontent.com/blade-01/devprofile/main/src/assets/img/dark_theme.jpg" height="50%" width="100%" style="object-fit:cover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blade-01&repo=devprofile&show_icons=true&theme=vue-dark">
- </div>
- <div>
-  <img src="https://raw.githubusercontent.com/blade-01/facture/main/src/assets/img/Home.jpg" height="50%" width="100%" style="object-fit:cover">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blade-01&repo=facture&show_icons=true&theme=vue-dark">
- </div>
-<div> -->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blade_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/animashaun-taofiq) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/blade_vue) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=blade-01&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=blade-01&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blade-01&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
