@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there , I am Taofiq a Software Engineer with 2+ years of experience in developing web applications utilizing the latest technologies and frameworks. Skilled in JavaScript, TypeScript, Vue ecosystem (Vuex, Pinia, Vue Router, Vue CLI, etc.), Tailwind, Nuxt, GraphQL, REST API, Firebase, Netlify, GitHub, Git, Figma, and more, and I am currently learning NodeJS<br>
+Hi there 👋, I am Taofiq a Software Engineer with 2+ years of experience in developing web applications utilizing the latest technologies and frameworks. Skilled in JavaScript, TypeScript, Vue ecosystem (Vuex, Pinia, Vue Router, Vue CLI, etc.), Tailwind, Nuxt, GraphQL, REST API, Firebase, Netlify, GitHub, Git, Figma, and more, and I am currently learning NodeJS<br>
 
 
 ## 🌐 Socials:
